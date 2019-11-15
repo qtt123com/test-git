@@ -15,5 +15,7 @@ public class TestMain {
         String s3 = str2.replace("-1/", "");
         System.out.println(s3);
         System.out.println("3333");
+        System.out.println(s3);
+        System.out.println("3333");
     }
 }
