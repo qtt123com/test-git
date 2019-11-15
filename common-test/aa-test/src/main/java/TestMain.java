@@ -14,5 +14,6 @@ public class TestMain {
         String str2 = "-1/-1/-1";
         String s3 = str2.replace("-1/", "");
         System.out.println(s3);
+        System.out.println("3333");
     }
 }
