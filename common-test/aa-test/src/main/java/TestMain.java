@@ -21,5 +21,12 @@ public class TestMain {
         System.out.println("3333");
         System.out.println(s3);
         System.out.println("3333");
+        System.out.println("3333");
+        System.out.println(s3);
+        System.out.println("3333");
+        System.out.println(s3);
+        System.out.println("3333");
+        System.out.println(s3);
+        System.out.println("3333");
     }
 }
